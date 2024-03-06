@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92e6cc3d-23fd-4e4a-b6d5-0639f181068e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\maven-repo" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="2bRMPFJKBNjNAPyxzhl4n0KFqPr" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/oa-service/src/main/java/com/zzf/process/mapper/xml" />
+    <property name="settings.editor.selected.configurable" value="background.image.plus" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\springbootProject\OA\OA-BackStage\oa-service\src\main\java\com\zzf\process\mapper\xml" />
+      <recent name="D:\springbootProject\OA\OA-BackStage\oa-service\src\main\java\com\zzf\auth\mapper\xml" />
+      <recent name="D:\springbootProject\OA\OA-BackStage\oa-service\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ProcessTest.get">
+    <configuration name="OaProcessTemplateController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zzf.process.controller.OaProcessTemplateController" />
+      <module name="oa-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zzf.process.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessTest.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oa-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zzf.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zzf.test" />
+      <option name="MAIN_CLASS_NAME" value="com.zzf.test.ProcessTest" />
+      <option name="METHOD_NAME" value="get" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessTest.get2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oa-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zzf.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zzf.test" />
+      <option name="MAIN_CLASS_NAME" value="com.zzf.test.ProcessTest" />
+      <option name="METHOD_NAME" value="get2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="oa-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zzf.ServiceAuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProcessTest.get" />
+        <item itemvalue="JUnit.ProcessTest.get2" />
+        <item itemvalue="Application.OaProcessTemplateController" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92e6cc3d-23fd-4e4a-b6d5-0639f181068e" name="Default Changelist" comment="" />
+      <created>1706173411947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706173411947</updated>
+      <workItem from="1706173416659" duration="11442000" />
+      <workItem from="1706244511210" duration="13015000" />
+      <workItem from="1706429284880" duration="2714000" />
+      <workItem from="1706433834406" duration="637000" />
+      <workItem from="1706509449242" duration="10217000" />
+      <workItem from="1706687705758" duration="14909000" />
+      <workItem from="1706859776151" duration="17011000" />
+      <workItem from="1706938860266" duration="16110000" />
+      <workItem from="1707384860796" duration="5349000" />
+      <workItem from="1707803841697" duration="5942000" />
+      <workItem from="1709528858724" duration="431000" />
+      <workItem from="1709529320008" duration="4447000" />
+      <workItem from="1709555717448" duration="6312000" />
+      <workItem from="1709620510233" duration="14710000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="612" y="181" key="#com.intellij.ide.util.MemberChooser" timestamp="1707819487303">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="612" y="181" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1707819487303" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/1920.181.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1706982859182" />
+    <state x="374" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1707386465094">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="374" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1707386465094" />
+    <state x="308" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1706286669939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="308" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.181.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1706286669939" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1706174359147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.181.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1706174359147" />
+    <state width="1876" height="140" key="GridCell.Tab.0.bottom" timestamp="1706894371573">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="140" key="GridCell.Tab.0.bottom/1920.181.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1706894371573" />
+    <state width="1876" height="140" key="GridCell.Tab.0.center" timestamp="1706894371573">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="140" key="GridCell.Tab.0.center/1920.181.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1706894371573" />
+    <state width="1876" height="140" key="GridCell.Tab.0.left" timestamp="1706894371573">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="140" key="GridCell.Tab.0.left/1920.181.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1706894371573" />
+    <state width="1876" height="140" key="GridCell.Tab.0.right" timestamp="1706894371573">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="140" key="GridCell.Tab.0.right/1920.181.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1706894371573" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1706191988743">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/1920.181.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1706191988743" />
+    <state x="563" y="84" key="SettingsEditor" timestamp="1709529408857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="563" y="84" key="SettingsEditor/1920.181.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1709529408857" />
+    <state x="606" y="291" key="new project wizard" timestamp="1706176483832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="606" y="291" key="new project wizard/1920.181.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1706176483832" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1706879589962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/1920.181.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1706879589962" />
+  </component>
+</project>

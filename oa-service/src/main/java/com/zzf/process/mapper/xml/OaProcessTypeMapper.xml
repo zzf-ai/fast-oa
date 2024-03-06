@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.zzf.process.mapper.OaProcessTypeMapper">
+
+    <!-- 结果映射 -->
+    <resultMap id="ProcessTypeResultMap" type="com.zzf.model.process.ProcessType">
+        <id property="id" column="id"/>
+        <result property="name" column="name"/>
+        <result property="description" column="description"/>
+        <result property="createTime" column="create_time"/>
+        <result property="updateTime" column="update_time"/>
+        <collection property="processTemplateList" ofType="com.zzf.model.process.ProcessTemplate">
+            <id property="id" column="id"/>
+            <result property="name" column="name"/>
+            <result property="iconUrl" column="icon_url"/>
+            <result property="formProps" column="form_props"/>
+            <result property="formOptions" column="form_options"/>
+            <result property="description" column="description"/>
+            <result property="processDefinitionKey" column="process_definition_key"/>
+            <result property="processDefinitionPath" column="process_definition_path"/>
+            <result property="processModelId" column="process_model_id"/>
+            <result property="status" column="status"/>
+        </collection>
+    </resultMap>
+    <!-- 根据类型ID查询类型及其对应的模板，包括BaseEntity中的字段 -->
+    <select id="selectProcessTypeAndTemplatesList" resultMap="ProcessTypeResultMap">
+    SELECT
+        t.id,
+        t.name,
+        t.description,
+        pt.id,
+        pt.name,
+        pt.icon_url,
+        pt.form_props,
+        pt.form_options,
+        pt.description,
+        pt.process_definition_key,
+        pt.process_definition_path,
+        pt.process_model_id,
+        pt.status,
+        t.create_time,
+        t.update_time
+    FROM
+        oa_process_type t
+    LEFT JOIN
+        oa_process_template pt ON t.id = pt.process_type_id
+    WHERE
+        t.is_deleted = 0
+    </select>
+
+
+</mapper>
